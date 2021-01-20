@@ -1,0 +1,21 @@
+# Generated solution files
+game_text.o
+game_aux.o
+*.a
+/sujet
+game_text
+solve-game_text
+
+# Cmake and make files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Test files
+/build
+/Testing
+CTestTestfile.cmake
+game_test_loreilly
+game_test_dsanyaronke
+game_test_mguillet001
